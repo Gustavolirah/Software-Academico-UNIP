@@ -1,0 +1,167 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!--
+    Microsoft ResX Schema 
+
+    Version 2.0
+
+    The primary goals of this format is to allow a simple XML format
+    that is mostly human readable. The generation and parsing of the
+    various data types are done through the TypeConverter classes
+    associated with the data types.
+
+    Example:
+
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+
+    There are any number of "resheader" rows that contain simple
+    name/value pairs.
+
+    Each data row contains a name, and value. The row also contains a
+    type or mimetype. Type corresponds to a .NET class that support
+    text/value conversion through the TypeConverter architecture.
+    Classes that don't support this are serialized and stored with the
+    mimetype set.
+
+    The mimetype is used for serialized objects, and tells the
+    ResXResourceReader how to depersist the object. This is currently not
+    extensible. For a given mimetype the value must be set accordingly:
+
+    Note - application/x-microsoft.net.object.binary.base64 is the format
+    that the ResXResourceWriter will generate, however the reader can
+    read any of the formats listed below.
+
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="label1.Text" xml:space="preserve">
+    <value>Infância:
+
+Extraordinário aos olhos dos outros, Armstrong tinha uma vida pessoal tão pacata 
+que beirava o tédio. Nascido em 05 de agosto de 1930, na cidade de Wapakoneta, 
+Ohio, nos Estados Unidos, era considerado o “certinho” da família.
+
+O menino prodígio, incentivado pela mãe Viola Armstrong, adquiriu gosto pela leitura 
+desde pequeno e aos três anos de idade já lia placas de rua. No primeiro ano do ensino 
+fundamental, ele leu mais de cem livros e, na série seguinte, foi pego por um professor 
+lendo para alunos da quarta série. 
+Aos oito anos de idade Armstrong pulou do segundo para o quarto ano na escola. Além 
+de estudante nota dez, era considerado o filho predileto da mãe, segundo relato de seus 
+irmãos descritos no livro “O Primeiro Homem: a Vida de Neil Armstrong” 
+(Editora Intrínseca) – que inspirou o HYPERLINK
+ "https://revistagalileu.globo.com/Cultura/noticia/2018/10/o-primeiro-homem-ryan-
+gosling-interpreta-neil-armstrong-em-novo-filme.html"filme "O Primeiro Homem", 
+lançado em outubro de 2018, com o ator Ryan Gosling interpretando o astronauta. 
+O garoto, apaixonado por aprender, era considerado “um menino autêntico” pela mãe, 
+de acordo com uma entrevista que ela deu à revista Life em 1969. O rapaz era tão focado 
+nos estudos que, por um lapso de memória, não se lembrava que sua avó paterna, 
+Laura Armstrong, havia morado com ele durante 13 anos – na época em que ele ainda 
+estava no colégio. 
+</value>
+  </data>
+  <data name="label3.Text" xml:space="preserve">
+    <value>Morte de Karen:
+
+Em 1961, durante um passeio em um parque, sua filha do meio tropeçou e caiu no chão. 
+O acidente, que parecia uma coisa normal de criança, teve consequências graves. Na hora, 
+a queda resultou apenas em um galo na cabeça e um pouco de sangue escorrendo pelo nariz. 
+Contudo, os sintomas pioraram. Karen ficou estrábica, tinha dificuldades de coordenação e 
+de locomoção. A menina foi submetida a uma série de exames e descobriu-se que tinha um 
+Glioma da Ponte de Varólios, espécie de tumor maligno localizado no tronco encefálico.
+Após seis meses lutando contra o tumor cerebral, em 28 de janeiro de 1962 e com apenas dois 
+anos e nove meses de idade, Karen faleceu no chalé da família em Juniper Hills. Na data, 
+Armstrong estava viajando a trabalho.
+</value>
+  </data>
+  <data name="label4.Text" xml:space="preserve">
+    <value>Casamento:
+
+No dia 28 de janeiro de 1956, Armstrong casou-se com a ex-colega da faculdade, Janet Shearon. 
+O matrimônio gerou três filhos: Eric Alan, Karen e Mark. A sintonia dois também se dava ao fato 
+de que ambos eram entusiastas do aprendizado.
+</value>
+  </data>
+</root>

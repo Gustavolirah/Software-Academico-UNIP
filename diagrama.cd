@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="NameAndType">
+  <Class Name="Museu_Pim.Modulos.Calculo">
+    <Position X="14" Y="0.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAQAAQAEAAgAQAAAAAABAJBAAQAABAgAAAQAAAAA=</HashCode>
+      <FileName>Modulos\Calculo.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="mensagebox" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="Museu_Pim.Modulos.Controle">
+    <Position X="4.25" Y="0.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAABAEAAAUAAAiBAAAAAAAAAAAAAAAAAEAAAA=</HashCode>
+      <FileName>Modulos\Controle.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Validacao" />
+      <Property Name="Pessoas" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="Museu_Pim.Modulos.Pessoas">
+    <Position X="3.25" Y="4.25" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAABAAAAICAAAgAAAAAAAAACAAAAAAAAAAAAA=</HashCode>
+      <FileName>Modulos\Pessoas.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Relatorio" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="Museu_Pim.Modulos.Validacao">
+    <Position X="0.5" Y="2.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AQACEAAAABABIAIEAAAiBAABIAAAAAAAAAAAAAEAAAA=</HashCode>
+      <FileName>Modulos\Validacao.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Controle" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="Museu_Pim.Formularios.Feedback">
+    <Position X="0.5" Y="0.5" Width="2.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+      <Compartment Name="Methods" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>UK1OPHrIuDYg+x32UlWRQKZGuNJTTxOLH0H5mt/riuQ=</HashCode>
+      <FileName>Formularios\Feedback.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Controle" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="Museu_Pim.Formularios.Relatorio">
+    <Position X="6.75" Y="0.5" Width="3.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAEBQAACAAIBAAAACCAAACIAgAAAAACgAAAAEAAAA=</HashCode>
+      <FileName>Formularios\Relatorio.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Museu_Pim.Modulos.Quests">
+    <Position X="10.25" Y="0.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAQAAQCBAABCAABiAAABDIEA4AAABAAAQAABAACA=</HashCode>
+      <FileName>Formularios\Quests.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Calculo" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="Museu_Pim.Formularios.mensagebox">
+    <Position X="17.75" Y="0.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAQAACAABBAAABCAAgACAAAAAAAAAAAAAUBAAAQ=</HashCode>
+      <FileName>Formularios\mensagebox.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
